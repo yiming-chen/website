@@ -27,7 +27,7 @@ const teamStyle = {
     color: grayColor[7]
   },
   description: {
-    color: grayColor[0]
+    color: grayColor[1]
   },
   justifyCenter: {
     justifyContent: "center !important"
@@ -41,7 +41,7 @@ const teamStyle = {
     height: "100%",
     lineHeight: "41px",
     fontSize: "20px",
-    color: grayColor[0]
+    color: grayColor[1]
   },
   margin5: {
     margin: "5px"

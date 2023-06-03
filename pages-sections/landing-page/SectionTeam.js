@@ -60,7 +60,7 @@ export default function SectionTeam() {
                       <h6 className={classes.cardCategory}>MLE和DS教师</h6>
                     </Muted>
                     <p className={classes.description}>
-                      陈一鸣曾就职于亚马逊Senior Research Science Manager。他拿过多个大厂的offers （Apple，google， Meta）。
+                      Yiming曾就职于亚马逊Senior Research Science Manager。他拿过多个大厂的offers （Apple，google， Meta）。
                       专攻MLE 和 Data Science 对面试与学习对内容。
                     </p>
                   </CardBody>
